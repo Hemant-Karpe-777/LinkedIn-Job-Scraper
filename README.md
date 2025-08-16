@@ -112,13 +112,11 @@ Commit your changes (git commit -m 'Add feature')
 Push to the branch (git push origin feature/YourFeature)
 Open a Pull Request
 
-
-
----
-
 ## 📜 License & Contact
 
 This project is under the MIT License.
+
+---
 
 ### 👤 Author: Hemant Karpe
 *Data Scientist | Machine Learning Developer | Promt Engineer*
