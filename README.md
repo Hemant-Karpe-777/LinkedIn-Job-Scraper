@@ -1,5 +1,12 @@
 # 🔎 LinkedIn Job Scraper
 
+## 📖 Overview
+**LinkedIn Job Scraper** is a Python-based automation tool that helps you search LinkedIn job postings by **keywords** and **locations**.  
+You can apply filters such as **date posted, remote/on-site, and experience level**.  
+Results are exported in **CSV** or **JSON** formats for further analysis.
+
+---
+
 Automate LinkedIn job searches with filters and export results in **CSV/JSON** for easy analysis.
 
 <p align="center">
@@ -19,13 +26,6 @@ Automate LinkedIn job searches with filters and export results in **CSV/JSON** f
   <img src="images/LinkedIn-Job-Scraper2.png" />
   <img src="images/LinkedIn-Job-Scraper3.png" />
 </p>
-
----
-
-## 📖 Overview
-**LinkedIn Job Scraper** is a Python-based automation tool that helps you search LinkedIn job postings by **keywords** and **locations**.  
-You can apply filters such as **date posted, remote/on-site, and experience level**.  
-Results are exported in **CSV** or **JSON** formats for further analysis.
 
 ---
 
