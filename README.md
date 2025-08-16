@@ -21,10 +21,10 @@ Automate LinkedIn job searches with filters and export results in **CSV/JSON** f
 
 
 <p align="center">
-  <img src="images/LinkedIn-Job-Scraper1.png" />
-  <img src="images/LinkedIn-Job-Scraper4.png" />
-  <img src="images/LinkedIn-Job-Scraper2.png" />
-  <img src="images/LinkedIn-Job-Scraper3.png" />
+  <img src="images/LinkedIn-Job-Scraper1.png" width="720" />
+  <img src="images/LinkedIn-Job-Scraper4.png" width="500" />
+  <img src="images/LinkedIn-Job-Scraper2.png" width="200"/>
+  <img src="images/LinkedIn-Job-Scraper3.png" width="200"/>
 </p>
 
 ---
