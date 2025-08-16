@@ -119,6 +119,6 @@ This project is under the MIT License.
 ---
 
 ### 👤 Author: Hemant Karpe
-*Data Scientist | Machine Learning Developer | Promt Engineer*
+*Data Scientist | Machine Learning Develope | Prompt Engineer*
 - 📧 Email: hemant.777karpe@gmail.com 
 - 🌐 [GitHub Portfolio](https://github.com/Hemant-Karpe-777) | 🔗 [Hemant-karpe](https://www.linkedin.com/in/hemant-karpe)
