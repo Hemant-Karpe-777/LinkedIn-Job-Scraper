@@ -12,6 +12,17 @@ Automate LinkedIn job searches with filters and export results in **CSV/JSON** f
 
 ---
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-3670A0?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" />
+  <a href="https://github.com/Hemant-Karpe-777/LinkedIn-Job-Scraper/stargazers">
+    <img src="https://img.shields.io/github/stars/Hemant-Karpe-777/LinkedIn-Job-Scraper?style=social" />
+  </a>
+</p>
+
+---
+
 ## 📌 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
