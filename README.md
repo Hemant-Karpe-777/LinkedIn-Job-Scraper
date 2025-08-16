@@ -14,11 +14,10 @@ Automate LinkedIn job searches with filters and export results in **CSV/JSON** f
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-3670A0?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter" />
-  <a href="https://github.com/Hemant-Karpe-777/LinkedIn-Job-Scraper/stargazers">
-    <img src="https://img.shields.io/github/stars/Hemant-Karpe-777/LinkedIn-Job-Scraper?style=social" />
-  </a>
+  <img src="images/LinkedIn-Job-Scraper1.png" />
+  <img src="images/LinkedIn-Job-Scraper4.png" />
+  <img src="images/LinkedIn-Job-Scraper2.png" />
+  <img src="images/LinkedIn-Job-Scraper3.png" />
 </p>
 
 ---
@@ -57,29 +56,24 @@ Add screenshots or sample outputs here:
 
 ---
 
-## 📂 Repository Structure
-
-
 ## ⚡ Installation
 
 1. Clone the repo  
    ```bash
    git clone https://github.com/Hemant-Karpe-777/LinkedIn-Job-Scraper.git
    cd LinkedIn-Job-Scraper
+   ```
 
 2. (Optional) Create virtual environment
 
-python -m venv venv
+```python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
-
+```
 
 3. Install dependencies
 
-pip install -r requirements.txt
-
-
----
+```pip install -r requirements.txt```
 
 ---
 
