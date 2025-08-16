@@ -125,7 +125,6 @@ Open a Pull Request
 This project is under the MIT License.
 
 ### 👤 Author: Hemant Karpe
-📧 hemant777.karpe@gmail.com
-
-- 🔗 LinkedIn
-- 🖥 GitHub
+*Data Scientist | Machine Learning Developer | Promt Engineer*
+- 📧 Email: hemant.777karpe@gmail.com 
+- 🌐 [GitHub Portfolio](https://github.com/Hemant-Karpe-777) | 🔗 [Hemant-karpe](https://www.linkedin.com/in/hemant-karpe)
